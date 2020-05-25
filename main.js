@@ -126,3 +126,4 @@ function reverseString(str) {
 console.log(reverseString("Hello")); */
 
 // The last method is the fastest and likely most impressive answer. Actually the best answer is to be able to show each one and the reasoning behind each answer. 
+
